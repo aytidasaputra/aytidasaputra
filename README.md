@@ -91,10 +91,9 @@ welcome to my GitHub Page. I am Aditya Saputra and now work as Frontend Develope
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td alig
+   
   </tr>
-   <tr>
- n="center" width="96">
+   <tr> <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
