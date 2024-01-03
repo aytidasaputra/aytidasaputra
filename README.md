@@ -45,8 +45,6 @@ welcome to my GitHub Page. I am Aditya Saputra and now work as Frontend Develope
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
       <br>Nginx
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -59,6 +57,8 @@ welcome to my GitHub Page. I am Aditya Saputra and now work as Frontend Develope
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
@@ -79,10 +79,7 @@ welcome to my GitHub Page. I am Aditya Saputra and now work as Frontend Develope
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-            
-  </tr>
-   <tr>
-    <td align="center" width="96">
+               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
       <br>Redis
     </td>
@@ -94,7 +91,10 @@ welcome to my GitHub Page. I am Aditya Saputra and now work as Frontend Develope
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
+    <td alig
+  </tr>
+   <tr>
+ n="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
