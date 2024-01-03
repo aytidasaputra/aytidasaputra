@@ -1,4 +1,4 @@
-## Hi there, I am Aditya Saputra, from Indonesia 👋
+## Hi there, I am Aditya Saputra from Indonesia 👋
 <div align="justify">
 
 <a href="https://www.instagram.com/diarydi2t">
@@ -10,8 +10,8 @@
 </a>
 </div>
 
-<p>🔭 I’m currently working on BRI Life as a Frontend Developer</p>
-<p>🏛️ Informatics Engineering Graduated , from University of Indraprasta PGRI, Jakarta</p>
+<!-- <p>🔭 I’m currently working on BRI Life as a Frontend Developer</p>
+<p>🏛️ Informatics Engineering Graduated , from University of Indraprasta PGRI, Jakarta</p> -->
 
 
 <p></p>
