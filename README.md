@@ -131,48 +131,6 @@ welcome to my GitHub Page. I am Aditya Saputra and now work as Frontend Develope
 </details>
 
 
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@aytidasaputra/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@aytidasaputra/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/aytidasaputra/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aytidasaputra&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/aytidasaputra/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aytidasaputra&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/aytidasaputra/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aytidasaputra&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/aytidasaputra/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aytidasaputra&repo=personal-site&theme=default" />
- </a>
- 
-</details>
-
-
 <!--
 **aytidasaputra/aytidasaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
